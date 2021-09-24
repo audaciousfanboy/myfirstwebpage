@@ -1,2 +1,0 @@
-# myfirstwebpage
-WebPage
